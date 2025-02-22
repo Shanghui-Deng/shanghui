@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '3.1.0'
+
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -9,7 +9,7 @@ ruby '3.1.0'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
+ruby '3.1.6'
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
