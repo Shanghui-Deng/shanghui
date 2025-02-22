@@ -18,7 +18,7 @@ redirect_from:
 
 I am currently a PhD candidate at the School of Computer Science, China University of Geosciences (Wuhan), advised by [Prof.Tang Chang](https://tangchang.net/). I got my M.S. degree in Computer Technology from Computer Science, Minnan Normal University, supervised by [Prof.Jingmin Yang](https://cs.mnnu.edu.cn/info/1070/1234.htm). My research interests include machine learning and indoor localization, especially multi-view/multi-modal representation learning and multi-view clustering.
 
-<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
@@ -29,6 +29,8 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 - \[*2022.07.25*\]: One paper has been accepted to Sensors!
 
 # 📝 Publications 
+<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
