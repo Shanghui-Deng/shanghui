@@ -28,8 +28,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 - \[*2022.08.05*\]: One paper has been accepted to Sensors!
 - \[*2022.07.25*\]: One paper has been accepted to Sensors!
 
-# 📝 Publications 
-<a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,4 +79,6 @@ Under Review\\
 **Thank you very much for every visitor, and I look forward to hearing from you!**
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=418fc5&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&ct=000000'></script>-->
 <!--  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ'></script>-->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=c2ccd9&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&cmo=ff5353'></script>
+<div style="width:80%">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=c2ccd9&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&cmo=ff5353&ct=000000'></script>
+</div>
