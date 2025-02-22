@@ -75,8 +75,8 @@ Under Review\\
 
 - Conference Reviewer of AAAI 2024, CVPR 2025, etc.
 
-# <i class="fas fa-map-marker-alt" /> Visiting Statistics
+**Thank you very much for every visitor, and I look forward to hearing from you!**
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=418fc5&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&ct=000000'></script>-->
-<div style="width:40%">
+<div style="width:95%">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ'></script>
 </div>
