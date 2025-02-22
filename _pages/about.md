@@ -28,7 +28,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 - \[*2022.08.05*\]: One paper has been accepted to Sensors!
 - \[*2022.07.25*\]: One paper has been accepted to Sensors!
 
-# 📝 Publications    <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
