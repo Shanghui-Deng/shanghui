@@ -19,7 +19,7 @@ gem "jekyll", "3.9.0"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'nokogiri', '~> 1.14'
-gem 'public_suffix', '4.0.6'
+
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
