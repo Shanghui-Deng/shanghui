@@ -36,7 +36,8 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 **Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering** \\
 **Shanghui Deng**, Chang Tang, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
 Under Review\\
-[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#)  [![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)
+<!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) -->
+[![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)
 </div>
 </div>
 
@@ -46,7 +47,7 @@ Under Review\\
 **scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
 **Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An\\
 Under Review\\
-[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)](#) [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) [![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/scSPAF)
+<!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)](#) [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#)--> [![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/scSPAF)
 </div>
 </div>
 
