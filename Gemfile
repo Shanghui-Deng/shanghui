@@ -8,7 +8,7 @@ source "https://gems.ruby-china.com"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "public_suffix" "5.1.1"
+
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
