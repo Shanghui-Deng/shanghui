@@ -1,3 +1,6 @@
+
+encoding: "UTF-8"
+
 source "https://gems.ruby-china.com"
 
 # Hello! This is where you manage which Jekyll version is used to run.
