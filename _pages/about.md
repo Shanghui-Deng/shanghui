@@ -38,7 +38,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 Under Review\\
 <!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) -->
 [![](https://img.shields.io/badge/-Code-blue?logo=Github&color=F5F5F5&style=flat&logoColor=black)](https://github.com/Shanghui-Deng/CLMGC)
-<!--[![](https://img.shields.io/badge/Code-GitHub-blue?logo=githu)](https://github.com/Shanghui-Deng/CLMGC)-->
+<!--[![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)-->
 </div>
 </div>
 
