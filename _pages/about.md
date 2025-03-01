@@ -83,7 +83,7 @@ Under Review\\
 
 
 # 💻 Service
-- **Journal Reviewers**  
+- **Journal Reviewer**  
   IEEE Sensors Journal  
   IET Communications  
   Cluster Computing  
