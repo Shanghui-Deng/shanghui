@@ -83,9 +83,9 @@ Under Review\\
 
 
 # 💻 Service
-- Journal Reviewers of IEEE TMM, IEEE TKDE, IEEE TBD, ESWA, IEEE JBHI, IEEE Sensors Journal, IET Communications, Cluster Computing, Computing, Measurement Science and Technology, Scientific Reports, and Wireless Personal Communications, etc.
+- Journal Reviewers of IEEE Sensors Journal, IET Communications, Cluster Computing, Computing, Measurement Science and Technology, Scientific Reports, Wireless Personal Communications, etc.
 
-- Conference Reviewer of AAAI 2024, CVPR 2025, etc.
+<!-- - Conference Reviewer of AAAI 2024, CVPR 2025, etc.-->
 
 **Thank you very much for every visitor, and I look forward to hearing from you!**
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=418fc5&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&ct=000000'></script>-->
