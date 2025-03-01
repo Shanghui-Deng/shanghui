@@ -87,9 +87,9 @@ Under Review\\
 IEEE Sensors Journal \\
 IET Communications \\
 Cluster Computing \\ 
-Computing \\ 
-Measurement Science and Technology \\ 
-Scientific Reports \\ 
+Computing \\
+Measurement Science and Technology \\
+Scientific Reports \\
 Wireless Personal Communications \\
 
 <!-- - Conference Reviewer of AAAI 2024, CVPR 2025, etc.-->
