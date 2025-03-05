@@ -100,7 +100,7 @@ Under Review\\
 <!--<div style="width:80%">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92c0eb&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&cmo=ff5353&ct=000000'></script>
 </div>-->
+
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?shanghui"
 border="0" alt="Web Counter"></a>
-<br><a href="https://www.easycounter.com/">stats counter</a>
