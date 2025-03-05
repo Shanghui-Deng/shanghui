@@ -95,9 +95,9 @@ Under Review\\
 <!-- - Conference Reviewer of AAAI 2024, CVPR 2025, etc.-->
 
 
-<a href="https://www.easycounter.com/">
+
 <img src="https://www.easycounter.com/counter.php?shanghui"
-border="0" alt="Web Counter"></a>
+border="0" alt="Web Counter">
 
 **Thank you very much for every visitor, and I look forward to hearing from you!**
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=418fc5&w=a&t=tt&d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&co=ffffff&ct=000000'></script>-->
