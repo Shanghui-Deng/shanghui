@@ -33,6 +33,19 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
+**Implicit Rank-minimizing Representation-based Cross-view Interaction and Fusion for Multi-view Clustering** \\
+**Shanghui Deng**, Xiao Zheng, Chang Tang, Xingchen Hu, Ning Li, Xinwang Liu\\
+Under Review\\
+<!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) -->
+[![](https://img.shields.io/badge/-Code-blue?logo=Github&logoColor=1F2328&labelColor=white&color=F5F5F5&style=flat)](https://github.com/Shanghui-Deng/IRIS)
+<!--[![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)-->
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering** \\
 **Shanghui Deng**, Chang Tang, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
 Under Review\\
