@@ -55,7 +55,7 @@ Under Review\\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/scSPAF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
