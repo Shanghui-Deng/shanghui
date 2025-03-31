@@ -84,7 +84,7 @@ Under Review\\
 
 # 🧑‍🎨 Fundings
 - The Fundamental Research Funds for National Universities, China University of Geosciences (Wuhan), 2023.6-2025.6, Ongoing, Manager
-- National Natural Science Foundation of China, 2024.1-2027.12, Ongoing, Participating
+- National Natural Science Foundation of China, 2025.1-2028.12, Ongoing, Participating
 
 # 🏅 Honors and Awards
 - *2024.12* The Second prize of the 5th China MathorCup Mathematics Application Challenge in the Big Data Competition.
