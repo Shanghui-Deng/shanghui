@@ -82,6 +82,9 @@ Under Review\\
 - **<u>An Adaptive Calibration Algorithm Based on RSSI and LDPLM for Indoor Ranging and Positioning</u>**, Jingmin Yang, **Shanghui Deng**, Minmin Lin, Li Xu, Sensors, 2022. [![](https://img.shields.io/badge/-Paper-blue?logo=googledocs&logoColor=1F2328&labelColor=white&color=F5F5F5&style=flat)](https://www.mdpi.com/1424-8220/22/15/5689) [![](https://img.shields.io/badge/-BibTeX-blue?labelColor=white&color=F5F5F5&logo=glassdoor&logoColor=black)](bib/2022_LDPLM.bib)
 <!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)](https://www.mdpi.com/1424-8220/22/15/5689) [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](bib/2022_LDPLM.bib)-->
 
+# 🧑‍🎨 Fundings
+- The Fundamental Research Funds for National Universities, China University of Geosciences (Wuhan), 2023.6-2025.6, Ongoing, Manager
+- National Natural Science Foundation of China, 2024.1-2028.12, Ongoing, Participating
 
 # 🏅 Honors and Awards
 - *2024.12* The Second prize of the 5th China MathorCup Mathematics Application Challenge in the Big Data Competition.
