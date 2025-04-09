@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shanghui Deng (邓裳辉)"
+  name             : "Shanghui Deng"
   avatar           : "images/dsh.png"
   bio              : ""
   location         : "Wuhan, China"
@@ -30,7 +30,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=9RAuZ4YAAAAJ"
   email            : "dengshanghui@cug.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Shanghui-Deng"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/327/4503.html"
+  dblp             : 
   orcid            : "https://orcid.org/0000-0003-4419-986X"
   pinterest        :
   soundcloud       :
