@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD candidate at the School of Computer Science, China University of Geosciences (Wuhan), advised by [Prof.Tang Chang](https://tangchang.net/). I got my M.S. degree in Computer Technology from Computer Science, Minnan Normal University, supervised by [Prof.Jingmin Yang](https://cs.mnnu.edu.cn/info/1070/1234.htm). My research interests include machine learning and indoor localization, especially multi-view/multi-modal representation learning and multi-view clustering.
+I am currently a PhD candidate at the School of Computer Science, China University of Geosciences (Wuhan), advised by Huazhong University of Science and Technology, [Prof.Tang Chang](https://tangchang.net/). I got my M.S. degree in Computer Technology from Computer Science, Minnan Normal University, supervised by [Prof.Jingmin Yang](https://cs.mnnu.edu.cn/info/1070/1234.htm). My research interests include machine learning and indoor localization, especially multi-view/multi-modal representation learning and multi-view clustering.
 
 
 
