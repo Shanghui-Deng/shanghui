@@ -34,7 +34,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 <div class='paper-box-text' markdown="1">
   
 **Find True Collaborators: Banzhaf Index-based Cross View Alignment for Partially View-aligned Clustering** \\
-**Shanghui Deng**, Xiao Zheng, Chang Tang, Kun SUn, Yuanyuan Liu, Xinwang Liu\\
+**Shanghui Deng**, Xiao Zheng, Chang Tang, Kun Sun, Yuanyuan Liu, Xinwang Liu\\
 Under Review\\
 <!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) 
 [![](https://img.shields.io/badge/-Code-blue?logo=Github&logoColor=1F2328&labelColor=white&color=F5F5F5&style=flat)](https://github.com/Shanghui-Deng/IRIS)-->
