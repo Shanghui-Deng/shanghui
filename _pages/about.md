@@ -22,6 +22,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  --> 
+- \[*2025.07.05*\]: One paper has been accepted to ACM MM (CCF A)! &nbsp;🎉
 - \[*2024.01.22*\]: One co-author paper has been accepted to Engineering Research Express!
 - \[*2022.11.30*\]: One paper has been accepted to IEEE Sensors Journal!
 - \[*2022.08.19*\]: One co-author paper has been accepted to Engineering Research Express!
@@ -30,7 +31,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
 
 # 📝 Publications <a href='https://scholar.google.com.hk/citations?hl=zh-CN&user=9RAuZ4YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2025_BIN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Find True Collaborators: Banzhaf Index-based Cross View Alignment for Partially View-aligned Clustering** \\
@@ -49,7 +50,7 @@ Under Review\\
   
 **Implicit Rank-minimizing Representation-based Cross-view Interaction and Fusion for Multi-view Clustering** \\
 **Shanghui Deng**, Xiao Zheng, Chang Tang, Weiqing Yan, Xingchen Hu, Ning Li, Xinwang Liu\\
-Under Review\\
+Proc. ACM International Conference on Multimedia (ACM MM), 2025\\
 <!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) -->
 [![](https://img.shields.io/badge/-Code-blue?logo=Github&logoColor=1F2328&labelColor=white&color=F5F5F5&style=flat)](https://github.com/Shanghui-Deng/IRIS)
 <!--[![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)-->
