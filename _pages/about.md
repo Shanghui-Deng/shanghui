@@ -36,7 +36,7 @@ I am currently a PhD candidate at the School of Computer Science, China Universi
   
 **Find True Collaborators: Banzhaf Index-based Cross View Alignment for Partially View-aligned Clustering** \\
 **Shanghui Deng**, Xiao Zheng, Chang Tang, Kun Sun, Yuanyuan Liu, Xinwang Liu\\
-Under Review\\
+Proc. ACM International Conference on Multimedia (ACM MM), 2025\\
 <!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) 
 [![](https://img.shields.io/badge/-Code-blue?logo=Github&logoColor=1F2328&labelColor=white&color=F5F5F5&style=flat)](https://github.com/Shanghui-Deng/IRIS)-->
 <!--[![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)-->
@@ -50,7 +50,7 @@ Under Review\\
   
 **Implicit Rank-minimizing Representation-based Cross-view Interaction and Fusion for Multi-view Clustering** \\
 **Shanghui Deng**, Xiao Zheng, Chang Tang, Weiqing Yan, Xingchen Hu, Ning Li, Xinwang Liu\\
-Proc. ACM International Conference on Multimedia (ACM MM), 2025\\
+Under review\\
 <!--[![](https://img.shields.io/badge/Paper-PDF-red?logo=googledocs&logoColor=white)]() [![](https://img.shields.io/badge/Cite-BibTex-yellow?logo=glassdoor&logoColor=white)](#) -->
 [![](https://img.shields.io/badge/-Code-blue?logo=Github&logoColor=1F2328&labelColor=white&color=F5F5F5&style=flat)](https://github.com/Shanghui-Deng/IRIS)
 <!--[![](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/Shanghui-Deng/CLMGC)-->
